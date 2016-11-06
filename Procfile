@@ -1,1 +1,1 @@
-web: gunicorn coaching.wsgi
+web: python manage.py collectstatic --noinput; gunicorn coaching.wsgi
