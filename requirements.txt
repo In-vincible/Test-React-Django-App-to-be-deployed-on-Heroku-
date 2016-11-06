@@ -1,5 +1,4 @@
 Django==1.9.8
 django-webpack-loader==0.3.3
-pkg-resources
 gunicorn==19.6.0
 whitenoise==3.2
